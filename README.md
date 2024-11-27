@@ -2,6 +2,11 @@
 
 Este proyecto implementa una base de conocimientos en Prolog para modelar y consultar relaciones familiares. Permite responder preguntas relacionadas con parentescos como padre, abuelo, tío, primo, y más.
 
+## Participantes
+- Luis Miguel Viuche Madroñero (20212020082)
+- Daniel Alejandro Chave Bustos (20212020109)
+- Dilan Stive Arboleda Zambrano (20212020105)
+
 ## Contenido
 
 1. [Predicados Definidos](#predicados-definidos)
